@@ -8,3 +8,4 @@ Supported devices:
   - Apple iPhone 6, 6s, 6s plus
   - Apple iPhone 7
   - Samsung Galaxy S5
+  - ...
