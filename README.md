@@ -1,7 +1,7 @@
 # Mobile-device-media-queries
 On-going list of media queries for targeting specific mobile devices. For HTML email visual issues on mobile.
 
-Devices:
+Supported devices:
   - Nexus 5
   - Nexus 6
   - Apple iPhone 3, 4, 5
